@@ -1,4 +1,4 @@
-# dartmouth-cs52.github.io
+# dartmouth-cs52.github.io archive of 20S course
 
 Source for the website for Dartmouth CS52.  Updated periodically.  Now includes slides and notes. Contribute at your leisure.
 
