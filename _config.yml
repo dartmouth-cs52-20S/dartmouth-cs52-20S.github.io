@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Dartmouth CS52 — 20S
+title: Dartmouth CS52 — 20S Course Archive
 tagline: Full-Stack Web Development
 email: tim@zingweb.com
 # About/contact
@@ -31,10 +31,3 @@ exclude: ["slide_template.md"]
 
 plugins:
   - jemoji
-
-algolia:
-  application_id: D3R6EYXRKJ
-  index_name:     jekyll
-  # Actually index the index.html/index.md pages
-  files_to_exclude: ["**/index_slides.md", "slide_template.md"]
-  search_only_api_key: 41d80d2fb4d78a95b5ee5bf78cfe1080
